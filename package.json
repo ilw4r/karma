@@ -427,7 +427,7 @@
     "di": "^0.0.1",
     "dom-serialize": "^2.2.1",
     "glob": "^7.1.7",
-    "graceful-fs": "^4.2.6",
+    "graceful-fs": "^4.2.8",
     "http-proxy": "^1.18.1",
     "isbinaryfile": "^4.0.8",
     "lodash": "^4.17.21",
