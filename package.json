@@ -433,7 +433,7 @@
     "lodash": "^4.17.21",
     "log4js": "^6.3.0",
     "mime": "^2.5.2",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "qjobs": "^1.2.0",
     "range-parser": "^1.2.1",
     "rimraf": "^3.0.2",
