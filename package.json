@@ -419,7 +419,7 @@
     "weiran.zsd@outlook.com>"
   ],
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.3",
     "braces": "^3.0.2",
     "chokidar": "^3.5.1",
     "colors": "^1.4.0",
